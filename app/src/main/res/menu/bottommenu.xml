@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/recipes"
+        android:title="Recipes"
+        android:icon="@drawable/ic_recipes"
+        app:cnb_textColor="@color/background_gray"
+        app:cnb_iconColor="@color/background_gray"
+        app:cnb_backgroundColor="@color/purple"
+        />
+    <item
+        android:id="@+id/categories"
+        android:title="Categories"
+        android:icon="@drawable/ic_categories"
+        app:cnb_textColor="@color/background_gray"
+        app:cnb_iconColor="@color/background_gray"
+        app:cnb_backgroundColor="@color/purple"
+        />
+    <item
+        android:id="@+id/smartcamera"
+        android:title="Smart Camera"
+        android:icon="@drawable/ic_smartcamera"
+        app:cnb_textColor="@color/background_gray"
+        app:cnb_iconColor="@color/background_gray"
+        app:cnb_backgroundColor="@color/neon"
+        />
+    <item
+        android:id="@+id/liked"
+        android:title="Liked"
+        android:icon="@drawable/ic_liked"
+        app:cnb_textColor="@color/background_gray"
+        app:cnb_iconColor="@color/background_gray"
+        app:cnb_backgroundColor="@color/purple"
+        />
+    <item
+        android:id="@+id/shopping"
+        android:title="Shopping List"
+        android:icon="@drawable/ic_shopping"
+        app:cnb_textColor="@color/background_gray"
+        app:cnb_iconColor="@color/background_gray"
+        app:cnb_backgroundColor="@color/purple"
+        />
+</menu>

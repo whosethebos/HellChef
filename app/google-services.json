@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089369521422",
+    "firebase_url": "https://hellchef-28282.firebaseio.com",
+    "project_id": "hellchef-28282",
+    "storage_bucket": "hellchef-28282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089369521422:android:8e29c99c1f7f095d0c6b5f",
+        "android_client_info": {
+          "package_name": "com.example.hellchef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089369521422-kfgg5urb28igg84mrecsoudtl37tlod4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvFeZu0a_bD8aiAA3r0tZW_jWEyWUFIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089369521422-kfgg5urb28igg84mrecsoudtl37tlod4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

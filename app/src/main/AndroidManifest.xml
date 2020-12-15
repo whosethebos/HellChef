@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hellchef">
+
+    <uses-permission android:name="android.permission.INTERNETn" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HellChef">
+        <activity android:name=".MLreference"></activity>
+        <activity android:name=".DisplayImage" />
+        <activity android:name=".CameraCapture" />
+        <activity android:name=".Home" />
+        <activity android:name=".Liked1" />
+        <activity android:name=".Veggi" />
+        <activity android:name=".Smartrecipe" />
+        <activity android:name=".Grilledveggi" />
+        <activity android:name=".Potato" />
+        <activity android:name=".Eggplant" />
+        <activity android:name=".Smartrecipe1" />
+        <activity android:name=".Veggi1" />
+        <activity android:name=".Gallery" />
+        <activity android:name=".Shopping1" />
+        <activity android:name=".Coffee" />
+        <activity android:name=".Tacos" />
+        <activity android:name=".Chilli" />
+        <activity android:name=".Pasta" />
+        <activity android:name=".Smartcamera" />
+        <activity android:name=".Shoppinglist" />
+        <activity android:name=".Liked" />
+        <activity android:name=".Categories" />
+        <activity android:name=".Recipes" />
+        <activity android:name=".Register" />
+        <activity android:name=".Logo" />
+        <activity android:name=".Start4" />
+        <activity android:name=".Start3" />
+        <activity android:name=".Start2" />
+        <activity android:name=".Start1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
