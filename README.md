@@ -1,6 +1,14 @@
 # HellChef
 Android application using Java and tried to incoperate YOLO Darknet for vegetable classification.
 
+## ML Code for HellChef
+The custom training for vegetables and Darknet YOLO code is in below GITHUB. This repository contain a jupitor notebook with google drive for trained weights and dataset.
+<br/>[YOLO for HellChef](https://github.com/whosethebos/YOLO-for-HellChef.git)
+
+## App UI Design for HellChef
+The app UI is designed in Adobe XD and the GIT link is available below.
+<br/>[HellChef Adobe XD]()
+
 ## Abstract
 Object detection and recognition has been one of the challenging tasks for many years. They are many techniques involved in this process and they are used in many scenarios in the real time. Things like classroom attendance, offices, traffic, and photo tagging so on. With the help of the advanced AI technologies they are been used in Drones, self-driving cars, automation and in robots for understanding the environment. The visual aspect of classification the objects and recognition of what that object is the key aspect ratio in all these applications. Usually a traditional Convolution neural network has been used for the recognition of the objects.
 
